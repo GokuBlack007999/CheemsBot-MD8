@@ -26,10 +26,10 @@ global.ownernomer = "919057434516" //ur owner number2
 global.ownername = "𝐺𝛩𝛫𝑈 𝐵𝐿𝛥𝐶𝛫 🖤" //ur owner name
 global.ytname = "i don't have" //ur yt chanel name
 global.socialm = "GitHub: gokublack007" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "heven" //ur location
 
 //new
-global.botname = ""
+global.botname = "🆁🅸🅺🅰"
 global.ownernumber = '919057434516'
 global.ownername = '𝐺𝛩𝛫𝑈 𝐵𝐿𝛥𝐶𝛫 🖤'
 global.ownerNumber = ["919057434516@s.whatsapp.net"]
@@ -39,9 +39,9 @@ global.wagc = "https://chat.whatsapp.com/"
 global.themeemoji = '🥰
 global.wm = "𝐺𝛩𝛫𝑈 𝐵𝐿𝛥𝐶𝛫 🖤."
 global.botscript = 'https://github.com/' //script link
-global.packname = "Rika-Chan"
+global.packname = "🆁🅸🅺🅰"
 global.author = "𝐺𝛩𝛫𝑈 𝐵𝐿𝛥𝐶𝛫 🖤"
-global.creator = "916909137213@s.whatsapp.net"
+global.creator = "919057434516@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Look this on', 
+    success: 'Look this one', 
 }
 
 let file = require.resolve(__filename)
